@@ -1,0 +1,30 @@
+---
+title: Intermediate Research Software Development with Python
+offered: July, 2024
+materials: "https://carpentries-incubator.github.io/python-intermediate-development/"
+description: |
+    Prerequisites: Git, Python, Shell
+prerequisites: |
+    Before joining this training, participants should meet the following criteria.
+    (You can use this short quiz to test your prerequisite knowledge.)
+
+    Git
+    You are familiar with the concept of version control
+    You have experience configuring Git for the first time and creating a local repository
+    You have experience using Git to create and clone a repository and add/commit changes to it and to push to/pull from a remote repository
+    Optionally, you have experience comparing various versions of tracked files or ignoring specific files
+
+    Python
+    You have a basic knowledge of programming in Python (using variables, lists, conditional statements, functions and importing external libraries)
+    You have previously written Python scripts or iPython/Jupyter notebooks to accomplish tasks in your domain of work
+
+    Shell
+    You have experience using a command line interface, such as Bash, to navigate a UNIX-style file system and run commands with arguments
+    Optionally, you have experience redirecting inputs and outputs from a command
+registration: "https://datascience.wisc.edu/training-resources/"
+tools: [PyCharm, Git, Unix Shell]
+packages: [numpy, pytest, venv, poetry]
+tags: [Unit Testing, Virtual Environments, Version Control]
+length: 18 hours
+organizers: 'Data Science Hub, UW-Madison Carpentries'
+---

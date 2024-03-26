@@ -1,0 +1,6 @@
+---
+title: How to Analyze Data Using Python
+offered: March, 2024
+materials: 'https://researchguides.library.wisc.edu/python'
+registration: 'https://www.library.wisc.edu/steenbock/2023/12/22/learn-how-to-analyze-data-using-python-and-or-r-programming-languages/'
+---
